@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"features": [{
+"type": "Feature",
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[-105.1547889, 39.9862516],
+[-105.1547167, 39.9862691]
+]
+},
+"properties": {
+"id": "a1398a11-d1ce-421c-bf66-a456ff525de9",
+"lineColor": [130, 154, 227],
+"lineWidth": 0.1
+}
+}]
+}
